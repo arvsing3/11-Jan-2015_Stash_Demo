@@ -8,6 +8,7 @@ public class demo {
 		double y=1234.123444
 				double z=1234.32e3232432;
 		int y=2;
+		String str="In Master";
 		//float z=123.45;
 		System.out.println(x);
 
