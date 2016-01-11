@@ -9,7 +9,11 @@ public class demo {
 				double z=1234.32e3232432;
 		double a=1234.1212;
 		int y=2;
+<<<<<<< HEAD
 		
+=======
+		String str="In Master";
+>>>>>>> refs/heads/master
 		//float z=123.45;
 		System.out.println(x);
 
